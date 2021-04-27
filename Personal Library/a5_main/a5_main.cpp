@@ -1,6 +1,5 @@
 //*****************************************************************************
 // Student Names: Chaitya Patel and Mayurah Omkararuban
-// Student Numbers: 20886642 (CP) and 20879369 (MO)
 //
 //  SYDE 121 Assignment 5
 //  Filename: a5_main (other linked files: a5_book.hpp, a5_book.cpp, a5_library.hpp, a5_library.cpp)
