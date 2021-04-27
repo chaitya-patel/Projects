@@ -1,7 +1,6 @@
 // a4_q1.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //*****************************************************************************
 // Student Names: Chaitya Patel and Mayurah Omkararuban
-// Student Numbers: 20886642 (CP) and MO is in a different time zone and this was forgotten
 //
 //  SYDE 121 Assignment: 4
 //  Filename: a4_q1
