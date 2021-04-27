@@ -5,7 +5,6 @@
 // step4. if prime number is less than 100,000 and the sum of digits is odd, then indicate that output
 //*****************************************************************************
 // Student Name: Chaitya Patel
-//  Student Number:  20886642
 //
 //  SYDE 121 Assignment: 2
 //  Filename: a2_q1
