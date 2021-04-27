@@ -1,0 +1,4 @@
+﻿  a4_q1.cpp
+C:\Users\patel\source\repos\a4_q1\a4_q1\a4_q1.cpp(317): warning C4715: 'check_taken': not all control paths return a value
+C:\Users\patel\source\repos\a4_q1\a4_q1\a4_q1.cpp(480): warning C4715: 'check_win': not all control paths return a value
+  a4_q1.vcxproj -> C:\Users\patel\source\repos\a4_q1\Debug\a4_q1.exe
