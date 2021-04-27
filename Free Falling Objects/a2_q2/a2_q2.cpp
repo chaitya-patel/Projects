@@ -1,7 +1,6 @@
 // a2_q2.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //*****************************************************************************
 // Student Name: Chaitya Patel
-//  Student Number:  20886642
 //
 //  SYDE 121 Assignment: 2
 //  Filename: a2_q2
