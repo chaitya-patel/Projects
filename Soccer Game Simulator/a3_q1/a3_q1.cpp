@@ -1,7 +1,6 @@
 // a3_q1.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //*****************************************************************************
 // Student Name: Chaitya Patel
-//  Student Number:  20886642
 //
 //  SYDE 121 Assignment: 3
 //  Filename: a3_q1
